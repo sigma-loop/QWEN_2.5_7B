@@ -1,1 +1,26 @@
 
+
+## *Triggering a Hint*
+{
+  "problem": "Given an integer n, find the sum of all numbers from 1 to n.",
+  "rating": "800",
+  "topics": "math",
+  "mode": "hint"
+}
+
+## *Full Solution Request*
+{
+"problem": "Given an integer n, find the sum of all numbers from 1 to n.",
+  "rating": "800",
+  "topics": "math",
+  "mode": "solution"
+}
+
+## *Chat*
+{
+"messages": [
+    {"role": "user", "content": "I am stuck on understanding recursion."},
+    {"role": "assistant", "content": "Recursion is when a function calls itself. What part is confusing you?"},
+    {"role": "user", "content": "How do I know when to stop it?"}
+  ]
+}
